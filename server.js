@@ -8,6 +8,7 @@ const EXCLUDED = new Set(['package.json', 'package-lock.json', 'tsconfig.json'])
 const MIME = {
     '.html': 'text/html; charset=utf-8',
     '.js': 'application/javascript',
+    '.css': 'text/css',
     '.json': 'application/json',
     '.ico': 'image/x-icon',
 };
