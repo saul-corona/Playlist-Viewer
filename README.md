@@ -6,6 +6,9 @@ A lightweight local web app to browse and play YouTube playlists from exported J
 
 This project started as a way to migrate saved playlists to a new YouTube account before deleting the old one entirely. Beyond the migration, it became a deliberate choice to step away from the recommendation algorithm — watching only content I already curated rather than falling into rabbit holes and spending hours on videos that felt important in the moment but rarely were. The result is a simple viewer for the music playlists of bands I actually enjoy listening to, nothing more.
 
+<img width="1492" height="939" alt="Screenshot 2026-06-03 at 9 04 13 p m" src="https://github.com/user-attachments/assets/4d585b19-a152-41f5-9da0-611f4350b24c" />
+
+
 ## Features
 
 - Sidebar listing all loaded playlists
